@@ -1,0 +1,13 @@
+(int-rand 1)
+(rand-int 1)
+(rand-int 2)
+(rand-int 1)
+(rand-int 2)
+(rand-int 1)
+(rand-int -2,2)
+(rand-int -2 2)
+(rand-nth [-2..2])
+(rand-nth (-2..2))
+{-2..2}
+(rand-nth (range -2 2))
+quit

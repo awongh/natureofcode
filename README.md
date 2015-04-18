@@ -1,2 +1,1 @@
-# natureofcode
-Some selected examples from Nature of Code, translated into clojure/quil.
+Some selected examples from [Nature of Code](http://natureofcode.com/), translated into clojure/quil.
